@@ -1,0 +1,10 @@
+google-cloud-storage
+google-cloud-bigquery
+pandas
+pyarrow
+fsspec
+gcsfs
+psycopg2-binary
+sqlalchemy
+google-cloud-secret-manager
+pandas-gbq
